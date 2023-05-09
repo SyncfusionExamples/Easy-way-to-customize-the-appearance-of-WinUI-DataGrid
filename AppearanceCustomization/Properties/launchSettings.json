@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SyncFusionBlackoutDatesExample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SyncFusionBlackoutDatesExample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
